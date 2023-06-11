@@ -100,5 +100,5 @@ main() {
   # Reads the deps.txt files above
   PYTHONPATH=. build/ninja_main.py
 }
-
+}
 main "$@"
